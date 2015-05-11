@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ParseOffline.iml" filepath="$PROJECT_DIR$/ParseOffline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidWorks.iml" filepath="$PROJECT_DIR$/AndroidWorks.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
-
