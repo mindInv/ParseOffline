@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "ParseOffLine": {
+      "applicationId": "9wHY0iGBpAJCvJxExFYrL3bxJvGSKKRYmCoYdcvU",
+      "masterKey": "XLdsdVYWUzRjuMIrk1mSIQu5DcPZcQYX8rmLacSX"
+    },
+    "_default": {
+      "link": "ParseOffLine"
+    }
+  }
+}
